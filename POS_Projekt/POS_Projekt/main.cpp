@@ -1,9 +1,16 @@
-#include<opencv2/opencv.hpp>
-#include<iostream>
-#include"mini/ini.h"
+
+#include <iostream>
+#include "opencv2/opencv.hpp"
+#include "mini/ini.h"
+#include "img_proc.hpp"
+#include <filesystem>
+
+
 
 using namespace std;
 using namespace cv;
+
+namespace fs = std::filesystem;
 
 int main() {
     // create an ini file instance
@@ -14,26 +21,15 @@ int main() {
     file.read(ini);
     // read the path from ini file
     string path = ini["path"]["read_path"];
-    // read the image
-    Mat image = imread(path);
-    // convert the image to grayscale format
-    Mat img_gray;
-    cvtColor(image, img_gray, COLOR_BGR2GRAY);
-    // apply binary thresholding
-    Mat thresh;
-    threshold(img_gray, thresh, 150, 255, THRESH_BINARY);
-    imshow("Binary mage", thresh);
-    waitKey(0);
-    destroyAllWindows();
+    Mat image, edge_image;
 
-    // detect the contours on the binary image using cv2.CHAIN_APPROX_NONE
-    vector<vector<Point>> contours;
-    vector<Vec4i> hierarchy;
-    findContours(thresh, contours, hierarchy, RETR_TREE, CHAIN_APPROX_NONE);
-    // draw contours on the original image
-    Mat image_copy = image.clone();
-    drawContours(image_copy, contours, -1, Scalar(0, 255, 0), 2);
-    imshow("Image with contours", image_copy);
-    waitKey(0);
-    destroyAllWindows();
+    for (const auto& entry : fs::directory_iterator(path)) {
+        std::cout << entry.path() << std::endl;
+        image = imread(entry.path().string());
+        edge_image = img_proc_edge_detection(image);
+        imshow("Image with contours", edge_image);
+        waitKey(0);
+        destroyAllWindows();
+    }
+
 }

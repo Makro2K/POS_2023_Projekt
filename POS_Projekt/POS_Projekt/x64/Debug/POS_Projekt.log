@@ -1,2 +1,279 @@
 ﻿  main.cpp
-  POS_Projekt.vcxproj -> C:\Users\macie\Desktop\POS_2023_Projekt\POS_Projekt\x64\Debug\POS_Projekt.exe
+  Note: including file: D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\iostream
+  Note: including file:  D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\yvals_core.h
+  Note: including file:   D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime.h
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\sal.h
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\concurrencysal.h
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vadefs.h
+  Note: including file:   D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xkeycheck.h
+  Note: including file:  D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\istream
+  Note: including file:   D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ostream
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ios
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocnum
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\climits
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\limits.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cmath
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\yvals.h
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_new_debug.h
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_new.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\crtdefs.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\use_ansi.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cstdlib
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\math.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_search.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdlib.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xtr1common
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\intrin0.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\intrin0.inl.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cstdio
+  Note: including file:       D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_stdio_config.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\iterator
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\iosfwd
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cstring
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memory.h
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h
+  Note: including file:            D:\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_string.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cwchar
+  Note: including file:         D:\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wconio.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wctype.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wdirect.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wio.h
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_share.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wprocess.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wtime.h
+  Note: including file:          D:\Windows Kits\10\Include\10.0.22621.0\ucrt\sys/stat.h
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\sys/types.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xstddef
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cstddef
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\initializer_list
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xutility
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_iter_core.hpp
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\utility
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\type_traits
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cstdint
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\stdint.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\streambuf
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xiosbase
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\share.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\system_error
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_system_error_abi.hpp
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cerrno
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\stdexcept
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\exception
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\malloc.h
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_exception.h
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\eh.h
+  Note: including file:             D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_terminate.h
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xstring
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xmemory
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\limits
+  Note: including file:             D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cfloat
+  Note: including file:              D:\Windows Kits\10\Include\10.0.22621.0\ucrt\float.h
+  Note: including file:             D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\isa_availability.h
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\new
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xatomic.h
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xpolymorphic_allocator.h
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\tuple
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xcall_once.h
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xerrc.h
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\atomic
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xthreads.h
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xtimec.h
+  Note: including file:            D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ctime
+  Note: including file:             D:\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocale
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\memory
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\typeinfo
+  Note: including file:           D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_typeinfo.h
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xfacet
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocinfo
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_xlocinfo_types.hpp
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\cctype
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\clocale
+  Note: including file:           D:\Windows Kits\10\Include\10.0.22621.0\ucrt\locale.h
+  Note: including file: D:\Downloads\opencv\opencv\build\include\opencv2/opencv.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/core.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/cvdef.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/version.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/hal/interface.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\core\cv_cpu_dispatch.h
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\emmintrin.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xmmintrin.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\mmintrin.h
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\intrin.h
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\setjmp.h
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\immintrin.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\wmmintrin.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\nmmintrin.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\smmintrin.h
+  Note: including file:         D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\tmmintrin.h
+  Note: including file:          D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\pmmintrin.h
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\zmmintrin.h
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ammintrin.h
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\array
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/base.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\algorithm
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/cvstd.hpp
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\string
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\core\cvstd_wrapper.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/neon_utils.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/vsx_utils.hpp
+  Note: including file:     D:\Windows Kits\10\Include\10.0.22621.0\ucrt\assert.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/check.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/core/base.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/traits.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/matx.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/saturate.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/core/fast_math.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/types.hpp
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vector
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/mat.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/bufferpool.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/mat.inl.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/persistence.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/operations.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/cvstd.inl.hpp
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\complex
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\sstream
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ymath.h
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/utility.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core.hpp
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\functional
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\unordered_map
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xhash
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\list
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xbit_ops.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xnode_handle.h
+  Note: including file:    D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\mutex
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\ratio
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\thread
+  Note: including file:      D:\Windows Kits\10\Include\10.0.22621.0\ucrt\process.h
+  Note: including file:       D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_startup.h
+  Note: including file:        D:\Windows Kits\10\Include\10.0.22621.0\ucrt\math.h
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\vcruntime_startup.h
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/optim.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/ovx.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/calib3d.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/features2d.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/flann/miniflann.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/flann/defines.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\config.h
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/core/affine.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/dnn.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/dnn/dnn.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/core/async.hpp
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\chrono
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xfilesystem_abi.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\dnn\../dnn/version.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/dnn/dict.hpp
+  Note: including file:     D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\map
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xtree
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/dnn/dnn.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/dnn/layer.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/dnn.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/dnn/dnn.inl.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/dnn/utils/inference_engine.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\dnn\utils\../dnn.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/flann.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/flann/flann_base.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\flann\general.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\flann\matrix.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\flann\params.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\any.h
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\flann\saving.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\nn_index.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\result_set.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\set
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\flann\all_indices.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\kdtree_index.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\dynamic_bitset.h
+  Note: including file:       D:\Downloads\opencv\opencv\build\include\opencv2\flann\dist.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\heap.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\allocator.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\random.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\kdtree_single_index.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\kmeans_index.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\logger.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\stdarg.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\composite_index.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\linear_index.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\hierarchical_clustering_index.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\lsh_index.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\lsh_table.h
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\iomanip
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocmon
+  Note: including file:        D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xloctime
+  Note: including file:       D:\Windows Kits\10\Include\10.0.22621.0\ucrt\math.h
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\flann\autotuned_index.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\ground_truth.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\index_testing.h
+  Note: including file:       D:\Downloads\opencv\opencv\build\include\opencv2\flann\timer.h
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\flann\sampling.h
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/highgui.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/imgcodecs.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/videoio.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/imgproc.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2\./imgproc/segmentation.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/imgproc.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/ml.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/ml/ml.inl.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/objdetect.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/detection_based_tracker.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/face.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/aruco_detector.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/aruco_dictionary.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/aruco_board.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/objdetect/charuco_detector.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/photo.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/stitching.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/warpers.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/warpers.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/core/cuda.hpp
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2/core/cuda_types.hpp
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2/core/cuda.inl.hpp
+  Note: including file:       D:\Downloads\opencv\opencv\build\include\opencv2/core/cuda.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\warpers_inl.hpp
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\warpers.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/matchers.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/motion_estimators.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\util.hpp
+  Note: including file:     D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\util_inl.hpp
+  Note: including file:      D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\queue
+  Note: including file:       D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\deque
+  Note: including file:      D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\util.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2\stitching\detail\camera.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/exposure_compensate.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/seam_finders.hpp
+  Note: including file:    D:\Downloads\opencv\opencv\build\include\opencv2/opencv_modules.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/stitching/detail/blenders.hpp
+  Note: including file:  D:\Downloads\opencv\opencv\build\include\opencv2/video.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/video/tracking.hpp
+  Note: including file:   D:\Downloads\opencv\opencv\build\include\opencv2/video/background_segm.hpp
+  Note: including file: D:\Study\SystemProjecting\POS_2023_Projekt\POS_Projekt\POS_Projekt\mini/ini.h
+  Note: including file:  D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\fstream
+  Note: including file: D:\Study\SystemProjecting\POS_2023_Projekt\POS_Projekt\POS_Projekt\img_proc.hpp
+  Note: including file: D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\filesystem
+  Note: including file:  D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\locale
+  Note: including file:   D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocbuf
+  Note: including file:   D:\Programms\Dev\IDEs\VisualStudio\VS\VC\Tools\MSVC\14.35.32215\include\xlocmes
+  POS_Projekt.vcxproj -> D:\Study\SystemProjecting\POS_2023_Projekt\POS_Projekt\x64\Debug\POS_Projekt.exe
