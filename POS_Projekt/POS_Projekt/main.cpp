@@ -41,10 +41,8 @@ int main() {
     file.read(ini);
     // read the path from ini file
     string path = ini["path"]["read_path"];
-    Mat3b image, edge_image, resized_image, combined_image, previous_image, previous_matrix;
-    Mat3b black_box(1, 1, Vec3b(0, 0, 0));
-    int iteration = 0;
-    int row_iteration = 0;
+    Mat image, edge_image;
+
     for (const auto& entry : fs::directory_iterator(path)) {
         std::cout << entry.path() << std::endl;
         image = imread(entry.path().string());
