@@ -1,10 +1,8 @@
-
 #include <iostream> 
 #include "opencv2/opencv.hpp"
 #include "mini/ini.h"
 #include "img_proc.hpp"
 #include <filesystem>
-//#include
 
 using namespace std;
 using namespace cv;
@@ -27,10 +25,6 @@ typedef struct _image_matrix_t {
 } image_matrix_t;
 
 image_matrix_t original_images, edge_images;
-//Mat combine_image(Mat current_matrix, Mat input_image)
-//{
-
-//}
 
 int main() {
     // create an ini file instance
@@ -41,20 +35,27 @@ int main() {
     file.read(ini);
     // read the path from ini file
     string path = ini["path"]["read_path"];
+    string write_path_original = ini["path"]["write_path_original"];
+    string write_path_edge = ini["path"]["write_path_edge"];
     Mat image, edge_image;
-
+    int iteration = 0;
     for (const auto& entry : fs::directory_iterator(path)) {
         std::cout << entry.path() << std::endl;
         image = imread(entry.path().string());
         edge_image = img_proc_edge_detection(image);
         original_images.add_image(image);
+        edge_images.add_image(edge_image);
             iteration++;
-        if (iteration == 15) break;
+        //if (iteration == 20) break;
     }
     original_images.complete_mtrx();
-    imshow("Current matrix", original_images.matrix);
+    imshow("Original matrix", original_images.matrix);
     waitKey(0);
-
+    imwrite(write_path_original, original_images.matrix);
+    edge_images.complete_mtrx();
+    imshow("Contours matrix", edge_images.matrix);
+    waitKey(0);
+    imwrite(write_path_edge, edge_images.matrix);
 }
 
 void _image_matrix_t::add_image(Mat image)
