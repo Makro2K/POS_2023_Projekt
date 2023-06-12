@@ -5,6 +5,10 @@
 using namespace std;
 using namespace cv;
 
+
+/*!
+* This function returns the edged image.
+*/
 Mat img_proc_edge_detection(Mat image){
 
     Mat img_gray;

@@ -10,18 +10,29 @@ using namespace cv;
 namespace fs = std::filesystem;
 
 #define MAX_MATRIX_WIDTH (1000)
-
+/*! \struct _image_matrix_t
+* A structure for convenient filling of the miniatures image matrix.
+*/
 typedef struct _image_matrix_t {
-    Mat matrix;
-    int width = 0;
-    int last_row_height = 0;
-    bool first_row_complete = false;
+        /*! The image (matrix) */
+        Mat matrix;
+        /*! Function for adding new image to the matrix */
+        void add_image(Mat image);
+        /*! The function of adding a buffer after finishing work with the matrix */
+        void complete_mtrx(void);
+    
+    private:
+        /*! A buffer that contains a row that is not completely filled */
+        Mat _buffer;
+        /* A maximum width of matrix */
+        int max_width = MAX_MATRIX_WIDTH;
+        /* Default reduction factor */
+        float default_reduction_factor = 0.2;
 
-    Mat _buffer;
-    void add_image(Mat image);
-    void complete_mtrx(void);
-    int max_width = MAX_MATRIX_WIDTH;
-    float default_reduction_factor = 0.2;
+        int width = 0;
+        int last_row_height = 0;
+        bool first_row_complete = false;
+
 } image_matrix_t;
 
 image_matrix_t original_images, edge_images;
